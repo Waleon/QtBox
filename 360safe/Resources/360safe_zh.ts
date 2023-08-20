@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_CN">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>AboutUsDialog</name>
     <message>
@@ -47,12 +47,12 @@
 <context>
     <name>ChangeSkinWidget</name>
     <message>
-        <location filename="../change_skin_widget.cpp" line="37"/>
+        <location filename="../change_skin_widget.cpp" line="38"/>
         <source>use skin</source>
         <translation>使用此皮肤</translation>
     </message>
     <message>
-        <location filename="../change_skin_widget.cpp" line="58"/>
+        <location filename="../change_skin_widget.cpp" line="56"/>
         <source>download count:</source>
         <translation>下载次数：</translation>
     </message>
@@ -60,27 +60,27 @@
 <context>
     <name>CharacterWidget</name>
     <message>
-        <location filename="../character_widget.cpp" line="68"/>
+        <location filename="../character_widget.cpp" line="67"/>
         <source>triggerman</source>
         <translation>网购先赔</translation>
     </message>
     <message>
-        <location filename="../character_widget.cpp" line="66"/>
+        <location filename="../character_widget.cpp" line="65"/>
         <source>function</source>
         <translation>功能大全</translation>
     </message>
     <message>
-        <location filename="../character_widget.cpp" line="67"/>
+        <location filename="../character_widget.cpp" line="66"/>
         <source>clear cookie</source>
         <translation>Cookie清理</translation>
     </message>
     <message>
-        <location filename="../character_widget.cpp" line="69"/>
+        <location filename="../character_widget.cpp" line="68"/>
         <source>booster</source>
         <translation>加速球</translation>
     </message>
     <message>
-        <location filename="../character_widget.cpp" line="71"/>
+        <location filename="../character_widget.cpp" line="70"/>
         <source>close</source>
         <translation>关闭</translation>
     </message>
@@ -240,7 +240,7 @@
 <context>
     <name>LoadingWidget</name>
     <message>
-        <location filename="../loading_widget.cpp" line="66"/>
+        <location filename="../loading_widget.cpp" line="65"/>
         <source>hi</source>
         <translation>Hi,</translation>
     </message>
@@ -394,47 +394,47 @@
 <context>
     <name>MainMenu</name>
     <message>
-        <location filename="../main_menu.cpp" line="54"/>
+        <location filename="../main_menu.cpp" line="51"/>
         <source>setting</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../main_menu.cpp" line="55"/>
+        <location filename="../main_menu.cpp" line="52"/>
         <source>new character</source>
         <translation>新版特性</translation>
     </message>
     <message>
-        <location filename="../main_menu.cpp" line="56"/>
+        <location filename="../main_menu.cpp" line="53"/>
         <source>check update</source>
         <translation>检查更新</translation>
     </message>
     <message>
-        <location filename="../main_menu.cpp" line="57"/>
+        <location filename="../main_menu.cpp" line="54"/>
         <source>change company</source>
         <translation>切换为企业板</translation>
     </message>
     <message>
-        <location filename="../main_menu.cpp" line="58"/>
+        <location filename="../main_menu.cpp" line="55"/>
         <source>help online</source>
         <translation>在线帮助</translation>
     </message>
     <message>
-        <location filename="../main_menu.cpp" line="59"/>
+        <location filename="../main_menu.cpp" line="56"/>
         <source>platform help</source>
         <translation>论坛求助</translation>
     </message>
     <message>
-        <location filename="../main_menu.cpp" line="60"/>
+        <location filename="../main_menu.cpp" line="57"/>
         <source>login home</source>
         <translation>360网站</translation>
     </message>
     <message>
-        <location filename="../main_menu.cpp" line="61"/>
+        <location filename="../main_menu.cpp" line="58"/>
         <source>protect</source>
         <translation>隐私保护</translation>
     </message>
     <message>
-        <location filename="../main_menu.cpp" line="62"/>
+        <location filename="../main_menu.cpp" line="59"/>
         <source>about us</source>
         <translation>关于我们</translation>
     </message>
@@ -442,17 +442,17 @@
 <context>
     <name>MsgBox</name>
     <message>
-        <location filename="../msg_box.cpp" line="83"/>
+        <location filename="../msg_box.cpp" line="81"/>
         <source>close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../msg_box.cpp" line="84"/>
+        <location filename="../msg_box.cpp" line="82"/>
         <source>ok</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../msg_box.cpp" line="85"/>
+        <location filename="../msg_box.cpp" line="83"/>
         <source>cancel</source>
         <translation>取消</translation>
     </message>
@@ -801,152 +801,152 @@
 <context>
     <name>SkinWidget</name>
     <message>
-        <location filename="../skin_widget.cpp" line="218"/>
+        <location filename="../skin_widget.cpp" line="217"/>
         <source>blue sea</source>
         <translation>蓝色海洋</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="218"/>
+        <location filename="../skin_widget.cpp" line="217"/>
         <source>red heart</source>
         <translation>红色心情</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="218"/>
+        <location filename="../skin_widget.cpp" line="217"/>
         <source>lovely baby</source>
         <translation>可爱女孩</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="218"/>
+        <location filename="../skin_widget.cpp" line="217"/>
         <source>transparent water</source>
         <translation>清澈水珠</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="219"/>
+        <location filename="../skin_widget.cpp" line="218"/>
         <source>flower</source>
         <translation>盛开花朵</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="219"/>
+        <location filename="../skin_widget.cpp" line="218"/>
         <source>great sunshine</source>
         <translation>一缕阳光</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="219"/>
+        <location filename="../skin_widget.cpp" line="218"/>
         <source>shadow amazement</source>
         <translation>神秘夜空</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="218"/>
+        <location filename="../skin_widget.cpp" line="217"/>
         <source>profound life</source>
         <translation>绽放生命</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="219"/>
+        <location filename="../skin_widget.cpp" line="218"/>
         <source>360 pet</source>
         <translation>360安仔</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="219"/>
+        <location filename="../skin_widget.cpp" line="218"/>
         <source>life in blossom</source>
         <translation>怒放生命</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="220"/>
+        <location filename="../skin_widget.cpp" line="219"/>
         <source>beautiful stone</source>
         <translation>美丽石头</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="220"/>
+        <location filename="../skin_widget.cpp" line="219"/>
         <source>yellow energy</source>
         <translation>黄色力量</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="220"/>
+        <location filename="../skin_widget.cpp" line="219"/>
         <source>magic world</source>
         <translation>魔幻世界</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="220"/>
+        <location filename="../skin_widget.cpp" line="219"/>
         <source>intense emotion</source>
         <translation>热情活力</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="220"/>
+        <location filename="../skin_widget.cpp" line="219"/>
         <source>dream sky</source>
         <translation>梦幻星空</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="221"/>
+        <location filename="../skin_widget.cpp" line="220"/>
         <source>angry bird</source>
         <translation>愤怒的小鸟</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="221"/>
+        <location filename="../skin_widget.cpp" line="220"/>
         <source>graceful jazz</source>
         <translation>优雅爵士</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="221"/>
+        <location filename="../skin_widget.cpp" line="220"/>
         <source>card</source>
         <translation>卡通</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="221"/>
+        <location filename="../skin_widget.cpp" line="220"/>
         <source>summer cool</source>
         <translation>清凉夏日</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="221"/>
+        <location filename="../skin_widget.cpp" line="220"/>
         <source>blue world</source>
         <translation>蓝色经典</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="222"/>
+        <location filename="../skin_widget.cpp" line="221"/>
         <source>woodwind</source>
         <translation>木纹</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="222"/>
+        <location filename="../skin_widget.cpp" line="221"/>
         <source>pink mood</source>
         <translation>粉色心情</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="222"/>
+        <location filename="../skin_widget.cpp" line="221"/>
         <source>across time</source>
         <translation>穿越时空</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="222"/>
+        <location filename="../skin_widget.cpp" line="221"/>
         <source>six year</source>
         <translation>360卫士6周年</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="213"/>
+        <location filename="../skin_widget.cpp" line="212"/>
         <source>first page</source>
         <translation>首页</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="214"/>
+        <location filename="../skin_widget.cpp" line="213"/>
         <source>previous page</source>
         <translation>上一页</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="215"/>
+        <location filename="../skin_widget.cpp" line="214"/>
         <source>next page</source>
         <translation>下一页</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="216"/>
+        <location filename="../skin_widget.cpp" line="215"/>
         <source>last page</source>
         <translation>末页</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="210"/>
+        <location filename="../skin_widget.cpp" line="209"/>
         <source>title</source>
         <translation>360皮肤中心</translation>
     </message>
     <message>
-        <location filename="../skin_widget.cpp" line="211"/>
+        <location filename="../skin_widget.cpp" line="210"/>
         <source>close</source>
         <translation>关闭</translation>
     </message>
@@ -954,102 +954,102 @@
 <context>
     <name>SystemTray</name>
     <message>
-        <location filename="../system_tray.cpp" line="21"/>
+        <location filename="../system_tray.cpp" line="20"/>
         <source>360 safe</source>
         <translation>360安全卫士-木马防火墙完全开启</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="23"/>
+        <location filename="../system_tray.cpp" line="22"/>
         <source>protect</source>
         <translation>360安全卫士已保护您的电脑</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="23"/>
+        <location filename="../system_tray.cpp" line="22"/>
         <source>day</source>
         <translation>天</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="24"/>
+        <location filename="../system_tray.cpp" line="23"/>
         <source>firewall start</source>
         <translation>木马防火墙已开启</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="25"/>
+        <location filename="../system_tray.cpp" line="24"/>
         <source>enter</source>
         <translation>进入</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="27"/>
+        <location filename="../system_tray.cpp" line="26"/>
         <source>game mode</source>
         <translation>进入游戏模式</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="28"/>
+        <location filename="../system_tray.cpp" line="27"/>
         <source>online mode</source>
         <translation>进入网购模式</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="30"/>
+        <location filename="../system_tray.cpp" line="29"/>
         <source>open</source>
         <translation>打开360安全卫士</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="31"/>
+        <location filename="../system_tray.cpp" line="30"/>
         <source>help center</source>
         <translation>求救中心</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="32"/>
+        <location filename="../system_tray.cpp" line="31"/>
         <source>kill mummy</source>
         <translation>查杀木马</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="33"/>
+        <location filename="../system_tray.cpp" line="32"/>
         <source>clear</source>
         <translation>清理垃圾</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="34"/>
+        <location filename="../system_tray.cpp" line="33"/>
         <source>optimize</source>
         <translation>一键优化</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="35"/>
+        <location filename="../system_tray.cpp" line="34"/>
         <source>fireproof</source>
         <translation>流量防火墙</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="36"/>
+        <location filename="../system_tray.cpp" line="35"/>
         <source>show speed</source>
         <translation>显示加速球</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="37"/>
+        <location filename="../system_tray.cpp" line="36"/>
         <source>soft manage</source>
         <translation>软件管家</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="38"/>
+        <location filename="../system_tray.cpp" line="37"/>
         <source>safe notice</source>
         <translation>安全通知</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="39"/>
+        <location filename="../system_tray.cpp" line="38"/>
         <source>rise</source>
         <translation>升级</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="40"/>
+        <location filename="../system_tray.cpp" line="39"/>
         <source>login</source>
         <translation>360用户登录</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="41"/>
+        <location filename="../system_tray.cpp" line="40"/>
         <source>separate</source>
         <translation>隔离沙箱</translation>
     </message>
     <message>
-        <location filename="../system_tray.cpp" line="42"/>
+        <location filename="../system_tray.cpp" line="41"/>
         <source>logout</source>
         <translation>退出</translation>
     </message>
@@ -1057,22 +1057,22 @@
 <context>
     <name>TitleWidget</name>
     <message>
-        <location filename="../title_widget.cpp" line="112"/>
+        <location filename="../title_widget.cpp" line="111"/>
         <source>title</source>
         <translation>360安全卫士</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="113"/>
+        <location filename="../title_widget.cpp" line="112"/>
         <source>change skin</source>
         <translation>换肤</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="114"/>
+        <location filename="../title_widget.cpp" line="113"/>
         <source>main menu</source>
         <translation>主菜单</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="115"/>
+        <location filename="../title_widget.cpp" line="114"/>
         <source>minimize</source>
         <translation>最小化</translation>
     </message>
@@ -1081,117 +1081,68 @@
         <translation type="obsolete">最大化</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="116"/>
+        <location filename="../title_widget.cpp" line="115"/>
         <source>feedback</source>
         <translation>反馈意见</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="117"/>
+        <location filename="../title_widget.cpp" line="116"/>
         <source>close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="119"/>
+        <location filename="../title_widget.cpp" line="118"/>
         <source>power</source>
         <translation>电脑体检</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="120"/>
+        <location filename="../title_widget.cpp" line="119"/>
         <source>mummy</source>
         <translation>木马查杀</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="125"/>
+        <location filename="../title_widget.cpp" line="124"/>
         <source>hole</source>
         <translation>漏洞修复</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="121"/>
+        <location filename="../title_widget.cpp" line="120"/>
         <source>repair</source>
         <translation>系统修复</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="122"/>
+        <location filename="../title_widget.cpp" line="121"/>
         <source>clear</source>
         <translation>电脑清理</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="123"/>
+        <location filename="../title_widget.cpp" line="122"/>
         <source>optimize</source>
         <translation>优化加速</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="124"/>
+        <location filename="../title_widget.cpp" line="123"/>
         <source>expert</source>
         <translation>电脑专家</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="126"/>
+        <location filename="../title_widget.cpp" line="125"/>
         <source>software</source>
         <translation>软件管家</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="128"/>
+        <location filename="../title_widget.cpp" line="127"/>
         <source>360</source>
         <translation>360</translation>
     </message>
     <message>
-        <location filename="../title_widget.cpp" line="129"/>
+        <location filename="../title_widget.cpp" line="128"/>
         <source>safe</source>
         <translation>安全卫士</translation>
     </message>
     <message>
         <source>360 safe</source>
         <translation type="obsolete">360安全卫士</translation>
-    </message>
-</context>
-<context>
-    <name>skinWidget</name>
-    <message>
-        <location filename="../skinwidget.cpp" line="18"/>
-        <source>��ŭ��С��</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../skinwidget.cpp" line="18"/>
-        <source>���ž�ʿ</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../skinwidget.cpp" line="18"/>
-        <source>�ɫ����</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../skinwidget.cpp" line="18"/>
-        <location filename="../skinwidget.cpp" line="45"/>
-        <source>����Ƥ��</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../skinwidget.cpp" line="19"/>
-        <source>�������</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../skinwidget.cpp" line="19"/>
-        <source>�ŵ�ľ��</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../skinwidget.cpp" line="19"/>
-        <source>��ɫ֮�</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../skinwidget.cpp" line="19"/>
-        <source>��ɫ����</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../skinwidget.cpp" line="19"/>
-        <source>��ʿ������</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

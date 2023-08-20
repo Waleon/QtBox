@@ -8,12 +8,8 @@ int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
 
-    QTranslator translator;
-    translator.load(QString(":/qm/qt_zh_CN"));
-    app.installTranslator(&translator);
-
     QTranslator translator_zh;
-    translator_zh.load(QString(":/qm/360safe_zh"));
+    translator_zh.load(QString(":/translations/360safe_zh.qm"));
     app.installTranslator(&translator_zh);
 
     QFile qss(":/qss/360safe");

@@ -232,15 +232,14 @@ void MainWidget::changeLanguage(LANGUAGE language)
     switch(language)
     {
     case UI_EN:
-        translator->load(QString(":/qm/360safe_en"));
+        translator->load(QString(":/translations/360safe_en.qm"));
         break;
-
     case UI_ZH:
-        translator->load(QString(":/qm/360safe_zh"));
+        translator->load(QString(":/translations/360safe_zh.qm"));
         break;
-
     default:
-        translator->load(QString(":/qm/360safe_zh"));
+        translator->load(QString(":/translations/360safe_zh.qm"));
+        break;
     }
 
     title_widget->translateLanguage();

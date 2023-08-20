@@ -151,11 +151,6 @@
         <file alias="7">img/loginDialog/7.png</file>
         <file alias="8">img/loginDialog/8.png</file>
     </qresource>
-    <qresource prefix="/qm">
-        <file alias="360safe_en">360safe_en.qm</file>
-        <file alias="360safe_zh">360safe_zh.qm</file>
-        <file alias="qt_zh_CN">qt_zh_CN.qm</file>
-    </qresource>
     <qresource prefix="/shadow">
         <file alias="shadow_left">img/shadow/shadow_left.png</file>
         <file alias="shadow_left_bottom">img/shadow/shadow_left_bottom.png</file>
